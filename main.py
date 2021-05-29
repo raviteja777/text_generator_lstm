@@ -7,7 +7,7 @@ import os
 import random
 from _datetime import datetime
 
-DIR_PATH = "data/sample"
+DIR_PATH = "data/sonnets"
 EPOCHS = 30
 TRAIN_MODE = False  #trains model only if this value is true
 SAVE_MODEL_PATH = "save_models"

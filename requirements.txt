@@ -1,0 +1,75 @@
+# packages in environment at /home/raviteja/anaconda3/envs/text_generator_lstm:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main
+_pytorch_select           0.2                       gpu_0    anaconda
+attrs                     20.2.0                     py_0    anaconda
+blas                      1.0                         mkl    anaconda
+brotlipy                  0.7.0           py38h27cfd23_1003
+ca-certificates           2020.12.5            ha878542_0    conda-forge
+catalogue                 1.0.0                    py38_1    anaconda
+certifi                   2020.12.5        py38h578d9bd_1    conda-forge
+cffi                      1.14.0           py38h2e261b9_0    anaconda
+chardet                   4.0.0           py38h06a4308_1003
+cryptography              3.4.7            py38hd23ed53_0
+cudatoolkit               10.1.243             h6bb024c_0    anaconda
+cudnn                     7.6.5                cuda10.1_0    anaconda
+cymem                     2.0.3            py38he6710b0_0    anaconda
+cython-blis               0.4.1            py38h7b6447c_1    anaconda
+idna                      2.10               pyhd3eb1b0_0
+importlib-metadata        2.0.0                      py_1    anaconda
+importlib_metadata        2.0.0                         1    anaconda
+intel-openmp              2021.2.0           h06a4308_610
+joblib                    0.17.0                     py_0    anaconda
+jsonschema                3.0.2                    py38_0    anaconda
+ld_impl_linux-64          2.33.1               h53a641e_7
+libedit                   3.1.20210216         h27cfd23_1
+libffi                    3.2.1             hf484d3e_1007
+libgcc-ng                 9.1.0                hdf63c60_0
+libgfortran-ng            7.3.0                hdf63c60_0    anaconda
+libstdcxx-ng              9.1.0                hdf63c60_0
+mkl                       2019.4                      243    anaconda
+mkl-service               2.3.0            py38he904b0f_0    anaconda
+mkl_fft                   1.2.0            py38h23d657b_0    anaconda
+mkl_random                1.1.0            py38h962f231_0    anaconda
+murmurhash                1.0.2            py38he6710b0_0    anaconda
+ncurses                   6.2                  he6710b0_1
+ninja                     1.10.1           py38hfd86e86_0    anaconda
+numpy                     1.19.2           py38h54aff64_0
+numpy-base                1.19.2           py38hfa32c7d_0
+openssl                   1.1.1k               h27cfd23_0
+pandas                    1.2.4            py38h2531618_0
+pip                       21.1.1           py38h06a4308_0
+plac                      0.9.6                    py38_1    anaconda
+preshed                   3.0.2            py38he6710b0_1    anaconda
+pycparser                 2.20                       py_2    anaconda
+pyopenssl                 20.0.1             pyhd3eb1b0_1
+pyrsistent                0.17.3           py38h7b6447c_0    anaconda
+pysocks                   1.7.1            py38h06a4308_0
+python                    3.8.0                h0371630_2
+python-dateutil           2.8.1                      py_0    anaconda
+python_abi                3.8                      1_cp38    conda-forge
+pytorch                   1.4.0           cuda101py38h02f0884_0    anaconda
+pytz                      2020.1                     py_0    anaconda
+readline                  7.0                  h7b6447c_5
+requests                  2.25.1             pyhd3eb1b0_0
+scikit-learn              0.24.2           py38ha9443f7_0
+scipy                     1.5.2            py38h0b6359f_0    anaconda
+setuptools                52.0.0           py38h06a4308_0
+six                       1.15.0                     py_0    anaconda
+spacy                     2.3.5            py38hff7bd54_0
+spacy-model-en_core_web_sm 2.3.1              pyh9f0ad1d_0    conda-forge
+sqlite                    3.33.0               h62c20be_0
+srsly                     1.0.2            py38he6710b0_0    anaconda
+thinc                     7.4.1            py38hfd86e86_0    anaconda
+threadpoolctl             2.1.0              pyh5ca1d4c_0    anaconda
+tk                        8.6.10               hbc83047_0
+torchtext                 0.6.0                      py_1    pytorch
+tqdm                      4.59.0             pyhd3eb1b0_1
+tzdata                    2020f                h52ac0ba_0
+urllib3                   1.26.4             pyhd3eb1b0_0
+wasabi                    0.8.0                      py_0    anaconda
+wheel                     0.36.2             pyhd3eb1b0_0
+xz                        5.2.5                h7b6447c_0
+zipp                      3.3.1                      py_0    anaconda
+zlib                      1.2.11               h7b6447c_3
